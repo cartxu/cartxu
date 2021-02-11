@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2>Hi there 👋 </h2>
 
-<p>My name is <strong>Carmen Navarro</strong>, I am 33 years old and I live in Madrid, Spain. <p>
+<p>My name is <strong>Carmen Navarro</strong>, I am 33 years old and I live in <strong>Madrid, Spain.</strong> <p>
   
 <p>I started learning web development during 2020's quarentine because I NEEDED a change in my life, and this is something I have <strong>always wanted to do</strong>. I mean... I even started studying computer engineering when I was 18, but, I was young and stupid and life brought me throught a different path, I don't regret it (well, sometimes I do) because I have learnt A LOT since then, thanks to that choices I made. 
   
