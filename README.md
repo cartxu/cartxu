@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img src="https://i.postimg.cc/B6M7qCCS/navarrosoria2.png" >
 
-<h2>Hi there 👋 </h2>
+<h2>Hello, world! 👋 </h2>
 
 <p>My name is <strong>Carmen Navarro</strong>, I am 33 years old and I live in <strong>Madrid, Spain.</strong> <p>
   
