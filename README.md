@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://i.postimg.cc/B6M7qCCS/navarrosoria2.png" >
+<img src="https://i.postimg.cc/8kJTJ4Z3/banner-github.png" >
 
 <h2>Hello, world! 👋 </h2>
 
