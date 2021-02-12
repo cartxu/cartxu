@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 <p>I started learning web development during 2020's quarentine because I NEEDED a change in my life, and this is something I have <strong>always wanted to do</strong>. I mean... I even started studying computer engineering when I was 18, but, I was young and stupid and life brought me throught a different path, I don't regret it because I have learnt A LOT since then, thanks to that choices I made. 
   
-During 2020, I stopped working for awhile due to the pandemic and I decided I have to do something to take the path I have always wanted to walk, the time had come. 
+During 2020, I stopped working for awhile due to the pandemic and I decided I have to do something to take the path I have always wanted to walk, the time had come for me. 
 
 So here I am. 
 
