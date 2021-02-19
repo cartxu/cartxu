@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>My name is <strong>Carmen Navarro</strong>, I am 33 years old and I live in <strong>Madrid, Spain.</strong> <p>
   
 <p>I started learning web development during 2020's quarentine because, this is something I have <strong>always wanted to do</strong> and I couldn't miss that opportunity. 
-So here I am, learning day by day to make my life better 💪 
+So here I am, learning day by day to transform my life 💪 is never too late isn't it?
 
 - 🔭 I’m currently working on my projects for Harvard's CS50 Web Programming.
 - 🌱 I'm currently learning React, Python and Django.
