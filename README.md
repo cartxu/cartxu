@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 <h2>Hello, world! 👋 </h2>
 
 <p>My name is <strong>Carmen Navarro</strong>, I am 33 years old and I live in <strong>Madrid, Spain.</strong> <p>
-  
-<p>I started learning web development during 2020's quarentine because, this is something I have <strong>always wanted to do</strong> and I couldn't miss that opportunity. 
-So here I am, learning day by day to transform my life 💪 is never too late isn't it?
 
 - 🔭 I’m currently working on my projects for Harvard's CS50 Web Programming.
 - 🌱 I'm currently learning React, Python and Django.
@@ -30,4 +27,21 @@ So here I am, learning day by day to transform my life 💪 is never too late is
 - 🐮 Animal and Planet Earth lover.
 - ⚡ Fun fact: I've never thought I would love programming so much!
 
+<h2>Some of my projects</h2>
 
+* Hefemony.net: https://hefemony.net
+* E-Buyrton (e-commerce made with python, django, html, css and bootstrap for CS50's): https://www.youtube.com/watch?v=4Z6MMewrcQE&t=111s
+* Wiki (wiki place, made with python, django, html and css): https://www.youtube.com/watch?v=L8a4by6LURU
+* E-mail (email project for CS50's, made with python and javascript): https://www.youtube.com/watch?v=1ZvmbUTGFBo&t=15s
+
+<h2>Silly Webapps</h2>
+
+  * Traductor 'mimimi': https://cartxu.github.io/javascript-random/mimimi.html
+  * Oráculo de perretes: https://cartxu.github.io/javascript-random/queperro.html
+  * Tasks list: https://cartxu.github.io/javascript-random/tasks.html
+  * Calculadora edad perro-humano: https://cartxu.github.io/javascript-random/edadperro.html
+  * Próximo año bisiesto: https://cartxu.github.io/javascript-random/bisiesto.html
+  * Piedra, papel, tijera: https://cartxu.github.io/javascript-random/papelpiedratijeras.html
+  * Tic Tac Toe Game: https://cartxu.github.io/react-practice/tictactoe
+  * Math game: https://cartxu.github.io/react-practice/game
+  
