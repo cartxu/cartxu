@@ -30,7 +30,7 @@ So here I am.
 - ⭐ Always perfectioning HTML, CSS and JavaScript.
 - 👾 I love Bootstrap and Sass.
 - 🧘🏼‍♀️ I am a yogui.
-- 🐮 Animal and nature lover.
+- 🐮 Animal and Planet Earth lover.
 - ⚡ Fun fact: I've never thought I would love programming so much!
 
 
