@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <img src="https://i.postimg.cc/8kJTJ4Z3/banner-github.png" >
 
-<h2>Hello, world! 👋 </h2>
+<h2>console.log(Hello, world! 👋) </h2>
 
-<p>My name is <strong>Carmen Navarro</strong>, I am 33 years old and I live in <strong>Madrid, Spain.</strong> <p>
+<p>My name is <strong>${ Carmen Navarro }</strong>, I am ${33} years old and I live in <strong>${Madrid}.</strong> <p>
 
 - 🔭 I’m currently working on my projects for Harvard's CS50 Web Programming.
 - 🌱 I'm currently learning React, Python and Django.
