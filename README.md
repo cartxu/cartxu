@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -  ...
 -->
 
-<img src="https://i.postimg.cc/8kJTJ4Z3/banner-github.png" >
+
 
 <h2>console.log(Hello, world! 👋) </h2>
 
