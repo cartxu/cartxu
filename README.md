@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  ...
 -->
 
 <img src="https://i.postimg.cc/8kJTJ4Z3/banner-github.png" >
@@ -25,7 +25,12 @@ During 2020, I stopped working due to the pandemic and I decided I have to do so
 
 So here I am. 
 
-- 🌱 I’m currently learning React, Python and Django.
-
+- 🔭 I’m currently working on my projects for Harvard's CS50 Web Programming.
+- 🌱 I'm currently learning React, Python and Django.
+- ⭐ Always perfectioning HTML, CSS and JavaScript.
+- 👾 I love Bootstrap and Sass.
+- 🧘🏼‍♀️ I am a yogui.
+- 🐮 Animal and nature lover.
+- ⚡ Fun fact: I've never thought I would love programming so much!
 
 
