@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 👾 I love Bootstrap and Sass.
 - 🧘🏼‍♀️ I am a yogui.
 - 🐮 Animal and Planet Earth lover.
-- ⚡ Fun fact: I've never thought I would love programming so much!
 
 <h2>Some of my projects</h2>
 
