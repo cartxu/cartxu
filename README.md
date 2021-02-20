@@ -5,7 +5,7 @@ My name is **Carmen Navarro**, I am 33 years old and I live in Madrid, Spain.
 ---
 
 - 🔭 I’m currently working on my projects for **Harvard's CS50 Web Programming**.
-- 🧘  *Yogui* and a :coffee: coffee *yonki*.
+- 🧘  *Yogui* and :coffee: coffee *yonki*.
 - 🦔 Animal and Planet Earth lover.
 - ⚡ Fun fact: I have two cats named 🥥 & 🍍.
 - 👾 Open to **work** and **colaborations!**
