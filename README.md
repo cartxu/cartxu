@@ -35,6 +35,11 @@ Here are some ideas to get you started:
 * Wiki (wiki place, made with python, django, html and css): https://www.youtube.com/watch?v=L8a4by6LURU
 * E-mail (email project for CS50's, made with python and javascript): https://www.youtube.com/watch?v=1ZvmbUTGFBo&t
 
+<h2> Frontend Mentor Challenges </h2>
+
+* Huddle Responsive Landing Page: https://fm-entor-challenge2.cartxu.vercel.app/
+* Huddle Responsive Landing Page 2: https://landing.cartxu.vercel.app/
+
 <h2>Silly Webapps</h2>
 
   * Traductor 'mimimi': https://cartxu.github.io/javascript-random/mimimi.html
