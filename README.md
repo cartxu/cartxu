@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🍷 Wine and cheese are my fav match.
 - 🦔 Animal and Planet Earth lover.
 - ⚡ Fun fact: I have two cats named 🥥 & 🍍.
-- 💻 <strong>Open to work!</strong>
+- 💻 <strong>Open to work and colaborations!</strong>
 
 <h2>Some of my projects</h2>
 
