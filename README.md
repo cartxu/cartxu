@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 * Hefemony.net: https://hefemony.net
 * E-Buyrton (e-commerce made with python, django, html, css and bootstrap for CS50's): https://www.youtube.com/watch?v=4Z6MMewrcQE&t=111s
 * Wiki (wiki place, made with python, django, html and css): https://www.youtube.com/watch?v=L8a4by6LURU
-* E-mail (email project for CS50's, made with python and javascript): https://www.youtube.com/watch?v=1ZvmbUTGFBo&t=15s
+* E-mail (email project for CS50's, made with python and javascript): https://www.youtube.com/watch?v=1ZvmbUTGFBo&t
 
 <h2>Silly Webapps</h2>
 
