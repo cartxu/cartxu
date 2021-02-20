@@ -1,22 +1,49 @@
 ## console.log(Hello, world! 👋) 
 
-My name is *${ Carmen Navarro }*, I am *${ 33 }* years old and I live in *${ Madrid }*
+My name is **Carmen Navarro**, I am 33 years old and I live in Madrid, Spain.
 
 ---
 
-- 🔭 I’m currently working on my projects for Harvard's CS50 Web Programming.
-- 🌱 I'm currently learning React, Python and Django.
-- ⭐ Always perfectioning HTML, CSS and JavaScript.
-- 👾 I love Bootstrap and Sass.
+- 🔭 I’m currently working on my projects for **Harvard's CS50 Web Programming**.
+- 🌱 I'm currently learning **React, Python and Django**.
+- ⭐ Always perfectioning **HTML, CSS and JavaScript**.
 - 🧘 I am a yogui.
 - 🍷 Wine and cheese are my fav match.
+- :coffee: Coffee *yonki*.
 - 🦔 Animal and Planet Earth lover.
 - ⚡ Fun fact: I have two cats named 🥥 & 🍍.
-- 💻 *Open to work and colaborations!*
+- 👾 Open to **work** and **colaborations!**
+
+---
+#### :computer: I work with:
+<br>
+<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
+
+<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+
+<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
+<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+
+
+<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
+
+
+
+
+
 
 ---
 
-### Some of my projects
+#### :floppy_disk: Some of my projects:
 
 * [Hefemony.net:](https://hefemony.net/) web made ad hoc for the music creator Hefemony.
 * [E-Buyrton:](https://www.youtube.com/watch?v=4Z6MMewrcQE&t=111s) e-commerce made with python, django, html, css and bootstrap for CS50's.
@@ -25,21 +52,21 @@ My name is *${ Carmen Navarro }*, I am *${ 33 }* years old and I live in *${ Mad
 
 ---
 
-### Frontend Mentor Challenges 
+#### :pushpin: Frontend Mentor Challenges:
 
-* Huddle Responsive Landing Page: https://fm-entor-challenge2.cartxu.vercel.app/
-* Huddle Responsive Landing Page 2: https://landing.cartxu.vercel.app/
+* [Huddle Responsive Landing Page](https://fm-entor-challenge2.cartxu.vercel.app/)
+* [Huddle Responsive Landing Page 2](https://landing.cartxu.vercel.app/)
 
 ---
 
-### Silly Webapps
+#### :pill: Practice pills   - Just for fun:
 
-  * Traductor 'mimimi': https://cartxu.github.io/javascript-random/mimimi.html
-  * Oráculo de perretes: https://cartxu.github.io/javascript-random/queperro.html
-  * Tasks list: https://cartxu.github.io/javascript-random/tasks.html
-  * Calculadora edad perro-humano: https://cartxu.github.io/javascript-random/edadperro.html
-  * Próximo año bisiesto: https://cartxu.github.io/javascript-random/bisiesto.html
-  * Piedra, papel, tijera: https://cartxu.github.io/javascript-random/papelpiedratijeras.html
-  * Tic Tac Toe Game: https://cartxu.github.io/react-practice/tictactoe
-  * Math game: https://cartxu.github.io/react-practice/game
+  * [Traductor 'mimimi'](https://cartxu.github.io/javascript-random/mimimi.html)
+  * [Oráculo de perretes](https://cartxu.github.io/javascript-random/queperro.html)
+  * [Tasks list](https://cartxu.github.io/javascript-random/tasks.html)
+  * [Calculadora edad perro-humano](https://cartxu.github.io/javascript-random/edadperro.html)
+  * [Próximo año bisiesto](https://cartxu.github.io/javascript-random/bisiesto.html)
+  * [Piedra, papel, tijera](https://cartxu.github.io/javascript-random/papelpiedratijeras.html)
+  * [Tic Tac Toe Game](https://cartxu.github.io/react-practice/tictactoe)
+  * [Math game](https://cartxu.github.io/react-practice/game)
   
