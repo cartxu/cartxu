@@ -1,4 +1,4 @@
-## console.log(Hello, world! 👋) 
+## console.log("Hello, world! 👋") 
 
 My name is **Carmen Navarro**, I am 33 years old and I live in Madrid, Spain.
 
