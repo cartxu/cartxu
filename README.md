@@ -23,7 +23,7 @@ My name is **Carmen Navarro** and I am living in Madrid, Spain.
 #### :floppy_disk: Some of my projects:
 
 * [Hefemony.net:](https://hefemony.net/) web made ad hoc for the music creator Hefemony.
-* [E-Buyrton:](https://www.youtube.com/watch?v=4Z6MMewrcQE&t=111s) e-commerce made with python, django, html, css and bootstrap for CS50's.
+* [E-Buyrton:](https://www.youtube.com/watch?v=4Z6MMewrcQE&t) e-commerce made with python, django, html, css and bootstrap for CS50's.
 * [Wiki:](https://www.youtube.com/watch?v=L8a4by6LURU) wiki place, made with python, django, html and css.
 * [E-mail:](https://www.youtube.com/watch?v=1ZvmbUTGFBo&t) email project for CS50's, made with python and javascript.
 
