@@ -5,8 +5,9 @@ My name is **Carmen Navarro** and I am living in Madrid, Spain.
 ---
 
 - 🔭 I’m currently working on my projects for **Harvard's CS50 Web Programming**.
-- 🧘  *Yogui* and :coffee: coffee *yonki*.
-- 🦔 Animal and Planet Earth lover.
+- :book: I'm currently studying **Javascript and React**.
+- 🧘  *Yoga* and :coffee: *coffee* lover.
+- 🦔 *Animal* and *Planet Earth* fan.
 - ⚡ Fun fact: I have two cats named 🥥 & 🍍.
 - 👾 Open to **work** and **colaborations!**
 
