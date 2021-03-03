@@ -23,11 +23,18 @@ My name is **Carmen Navarro** and I am living in Madrid, Spain.
 
 #### :floppy_disk: Some of my projects:
 
-* [Hefemony.net:](https://hefemony.net/) *web made ad hoc for the music creator Hefemony*.
-* **E-Buyrton**: [Video](https://www.youtube.com/watch?v=4Z6MMewrcQE&t=111s) | [Code](https://github.com/cartxu/e-buyrton) *e-commerce made with python, django, html, css and bootstrap for CS50's*.
-* **Wiki**: [Video](https://www.youtube.com/watch?v=L8a4by6LURU) | [Code](https://github.com/cartxu/wikipage) *wiki place, made with python, django, html and css*.
-* **E-mail**: [Video](https://www.youtube.com/watch?v=1ZvmbUTGFBo&t) | [Code](https://github.com/cartxu/mail) *email project for CS50's, made with python and javascript using fetch and APIs*.
-* **Social Network**: [Video](https://www.youtube.com/watch?v=lz37axUCAaU) | [Code](https://github.com/cartxu/network) *social network project where the users can write posts, edit or delete them, follow/unfollow users, like/unlike posts, etc. Is made with Python, Django, CSS, Bootstrap, HTML and Javascript*.
+* **Hefemony**: *web made ad hoc for the music creator Hefemony* - [Hefemony.net:](https://hefemony.net/) 
+* **E-Buyrton**: *e-commerce app made with python, django, html, css and bootstrap for CS50's* - [Video](https://www.youtube.com/watch?v=4Z6MMewrcQE&t=111s) | [Code](https://github.com/cartxu/e-buyrton)
+* **Wiki**: *wiki place, made with python, django, html and css* [Video](https://www.youtube.com/watch?v=L8a4by6LURU) | [Code](https://github.com/cartxu/wikipage) 
+* **E-mail**: *email project for CS50's, made with python and javascript using fetch and APIs* [Video](https://www.youtube.com/watch?v=1ZvmbUTGFBo&t) | [Code](https://github.com/cartxu/mail)
+* **Social Network**: *social network project where the users can write posts, edit or delete them, follow/unfollow users, like/unlike posts, etc. Is made with Python, Django, CSS, Bootstrap, HTML and Javascript* [Video](https://www.youtube.com/watch?v=lz37axUCAaU) | [Code](https://github.com/cartxu/network)
+
+---
+
+### :pencil: Curriculum Vitae
+
+* [Download CV](https://drive.google.com/file/d/1W5Ea-g5aMQsznu4egnf8eqCjBi_yq2y5/view?usp=sharing)
+* [Linkedin](https://www.linkedin.com/in/carmen-navarrosoria/)
 
 ---
 
