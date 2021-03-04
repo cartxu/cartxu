@@ -50,6 +50,7 @@ Since then I have been taking several courses to learn and master some of the mo
 
 #### :pill: Practice pills   - Just for fun:
 
+  * [Netflix counter](https://cartxu.github.io/javascript-random/async/netflix.html)
   * [Traductor 'mimimi'](https://cartxu.github.io/javascript-random/mimimi.html)
   * [Oráculo de perretes](https://cartxu.github.io/javascript-random/queperro.html)
   * [Tasks list](https://cartxu.github.io/javascript-random/tasks.html)
