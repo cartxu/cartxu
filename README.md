@@ -2,8 +2,7 @@
 
 *My name is **Carmen Navarro** and I am living in Madrid, Spain.
 I am 33 years old and I have been working in hospitality until 2020, when I had the opportunity to start training myself as a **web developer**, something I have always wanted to do.
-Since then I have been taking several courses to learn and master some of the most used and demanded web technologies, as HTML, CSS, Javascript or Python. 
-But if I know something for sure, is that in this 'world wide web', which is constantly evolving and changing, I will never stop learning and that's something I love about it!*
+Since then I have been taking several courses to learn and master some of the most used and demanded web technologies, as HTML, CSS, Javascript or Python. Currently, one of the things I love the most is the design of user interfaces and SPAs, but if I know something for sure, is that in this 'world wide web', which is constantly evolving and changing, I will never stop learning and 'loving' new things, and that's what made me fell in love with it!*
 
 ---
 
@@ -34,10 +33,10 @@ But if I know something for sure, is that in this 'world wide web', which is con
 #### :floppy_disk: Some of my projects:
 
 * **Hefemony**: *web made ad hoc for the music creator Hefemony* - [Hefemony.net:](https://hefemony.net/) 
-* **Social Network**: *social network project where the users can write posts, edit or delete them, follow/unfollow users, like/unlike posts, etc. Is made with Python, Django, CSS, Bootstrap, HTML and Javascript* - [Video](https://www.youtube.com/watch?v=lz37axUCAaU) | [Code](https://github.com/cartxu/network)
-* **E-Buyrton**: *e-commerce app made with python, django, html, css and bootstrap for CS50's* - [Video](https://www.youtube.com/watch?v=4Z6MMewrcQE&t=111s) | [Code](https://github.com/cartxu/e-buyrton)
-* **Wiki**: *wiki place, made with python, django, html and css* - [Video](https://www.youtube.com/watch?v=L8a4by6LURU) | [Code](https://github.com/cartxu/wikipage) 
-* **E-mail**: *email project for CS50's, made with python and javascript using fetch and APIs* - [Video](https://www.youtube.com/watch?v=1ZvmbUTGFBo&t) | [Code](https://github.com/cartxu/mail)
+* **Social Network**: *social network project where the users can write posts, edit or delete them, follow/unfollow users, like/unlike posts, etc. Is made with Python, Django, SQLite, CSS, Bootstrap, HTML and Javascript* - [Video](https://www.youtube.com/watch?v=lz37axUCAaU) | [Code](https://github.com/cartxu/network)
+* **E-Buyrton**: *e-commerce app made with Python, Django, SQLite, HTML, CSS and Bootstrap for CS50's Harvard Course* - [Video](https://www.youtube.com/watch?v=4Z6MMewrcQE&t=111s) | [Code](https://github.com/cartxu/e-buyrton)
+* **Wiki**: *wikipedia like web site, made with Python, Django, HTML and CSS* - [Video](https://www.youtube.com/watch?v=L8a4by6LURU) | [Code](https://github.com/cartxu/wikipage) 
+* **E-mail**: *email project for CS50's, made with Python and Javascript using fetch and APIs* - [Video](https://www.youtube.com/watch?v=1ZvmbUTGFBo&t) | [Code](https://github.com/cartxu/mail)
 
 
 ---
