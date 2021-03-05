@@ -43,6 +43,7 @@ Since then I have been taking several courses to learn and master some of the mo
 
 #### :pushpin: Frontend Mentor Challenges:
 
+* [Fylo Landing Page with Dark theme](https://frontend-mentor-fylo-dark.vercel.app/)
 * [Huddle Responsive Landing Page](https://fm-entor-challenge2.cartxu.vercel.app/)
 * [Huddle Responsive Landing Page 2](https://landing.cartxu.vercel.app/)
 
