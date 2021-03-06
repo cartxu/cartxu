@@ -4,6 +4,7 @@
 I am 33 years old and I have been working in hospitality until 2020, when I had the opportunity to start training myself as a **web developer**, something I have always wanted to do.
 Since then I have been taking several courses to learn and master some of the most used and demanded web technologies, as HTML, CSS, Javascript or Python. Currently, one of the things I love the most is the design of user interfaces and SPAs, but if I know something for sure, is that in this 'world wide web', which is constantly evolving and changing, I will never stop learning and 'loving' new things, and that's what made me fell in love with it!*
 
+<img width="auto" src="carmennavarro.jpg">
 ---
 
 - 🔭 I’m currently working on my projects for **Harvard's CS50 Web Programming**.
