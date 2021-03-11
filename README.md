@@ -1,19 +1,18 @@
 ## console.log("Hello, world! 👋") 
 
-*My name is **Carmen Navarro** and I am living in Madrid, Spain.
-I am 33 years old and I have been working in hospitality until 2020, when I had the opportunity to start training myself as a **web developer**, something I have always wanted to do.
-Since then I have been taking several courses to learn and master some of the most used and demanded web technologies, as HTML, CSS, Javascript or Python. Currently, one of the things I love the most is the design of user interfaces and SPAs, but if I know something for sure, is that in this 'world wide web', which is constantly evolving and changing, I will never stop learning and 'loving' new things, and that's what made me fell in love with it!*
+<img width="auto" src="https://github.com/cartxu/cartxu/raw/main/carmennavarro.jpg">
 
-<img width="auto" src="carmennavarro.jpg">
+*My name is **Carmen Navarro** and I am living in Madrid, Spain.
+I am 33 years old and I have been working in hospitality until 2020, when I had the opportunity to start training myself as a **web developer**, something I have always wanted to do. Since then I have been taking several courses to learn and master some of the most used and demanded web technologies, as HTML, CSS, Javascript or Python. Currently, one of the things I love the most is the design of user interfaces and SPAs, but if I know something for sure, is that in this 'world wide web', which is constantly evolving and changing, I will never stop learning and 'loving' new things, and that's what made me fell for it!*
 
 ---
 
-- 🔭 I’m currently working on my projects for **Harvard's CS50 Web Programming**.
-- :book: I'm currently studying **Javascript and React**.
+- 🔭  I’m currently working on my projects for **Harvard's CS50 Web Programming**.
+- :book: I'm currently improving my skills with **Javascript, React and Django**.
 - 🧘  *Yoga* and :coffee: *coffee* lover.
-- 🦔 *Animal* and *Planet Earth* fan.
-- ⚡ Fun fact: I have two cats named 🥥 & 🍍.
-- 👾 Open to **work** and **colaborations!**
+- 🦔  *Animal* and *Planet Earth* fan.
+- ⚡  Fun fact: I have two cats named 🥥 & 🍍.
+- 👾  I am open to **work** and **colaborations!**
 
 
 ---
@@ -53,6 +52,8 @@ Since then I have been taking several courses to learn and master some of the mo
 
 #### :pill: Practice pills   - Just for fun:
 
+  * [Simon Dice Play](https://cartxu.github.io/simon-dice/)
+  *  [Tic Tac Toe Game](https://cartxu.github.io/react-practice/tictactoe)
   * [Netflix counter](https://cartxu.github.io/javascript-random/async/netflix.html)
   * [Traductor 'mimimi'](https://cartxu.github.io/javascript-random/mimimi.html)
   * [Oráculo de perretes](https://cartxu.github.io/javascript-random/queperro.html)
@@ -60,6 +61,5 @@ Since then I have been taking several courses to learn and master some of the mo
   * [Calculadora edad perro-humano](https://cartxu.github.io/javascript-random/edadperro.html)
   * [Próximo año bisiesto](https://cartxu.github.io/javascript-random/bisiesto.html)
   * [Piedra, papel, tijera](https://cartxu.github.io/javascript-random/papelpiedratijeras.html)
-  * [Tic Tac Toe Game](https://cartxu.github.io/react-practice/tictactoe)
   * [Math game](https://cartxu.github.io/react-practice/game)
   
