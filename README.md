@@ -5,21 +5,12 @@
 *My name is **Carmen Navarro** and I am living in Madrid, Spain.
 I am 33 years old and I have been working in hospitality until 2020, when I had the opportunity to start training myself as a **web developer**, something I have always wanted to do. Since then I have been taking several courses to learn and master some of the most used and demanded web technologies, as HTML, CSS, Javascript or Python. Currently, one of the things I love the most is the design of user interfaces and SPAs, but if I know something for sure, is that in this 'world wide web', which is constantly evolving and changing, I will never stop learning and 'loving' new things, and that's what made me fell for it!*
 
----
-
-- 🔭  I’m currently working on my projects for **Harvard's CS50 Web Programming**.
-- :book: I'm currently improving my skills with **Javascript, React and Django**.
-- 🧘  *Yoga* and :coffee: *coffee* lover.
-- 🦔  *Animal* and *Planet Earth* fan.
-- ⚡  Fun fact: I have two cats named 🥥 & 🍍.
-- 👾  I am open to **work** and **colaborations!**
 
 
----
-### :computer: Coding w/
+### :computer: Working with:
 
 
-<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> 
 
 
 ---
