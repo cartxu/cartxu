@@ -30,6 +30,7 @@ I am 33 years old and I have been working in hospitality until 2020, when I had 
 * **E-Buyrton**: *e-commerce app made with Python, Django, SQLite, HTML, CSS and Bootstrap for CS50's Harvard Course* - [Video](https://www.youtube.com/watch?v=4Z6MMewrcQE&t=111s) | [Code](https://github.com/cartxu/e-buyrton)
 * **Wiki**: *wikipedia like web site, made with Python, Django, HTML and CSS* - [Video](https://www.youtube.com/watch?v=L8a4by6LURU) | [Code](https://github.com/cartxu/wikipage) 
 * **E-mail**: *email project for CS50's, made with Python and Javascript using fetch and APIs* - [Video](https://www.youtube.com/watch?v=1ZvmbUTGFBo&t) | [Code](https://github.com/cartxu/mail)
+* **Yoga Studio Web Design** *Design created with Wordpress and Divi for a yoga studio* - [Capture](https://i.ibb.co/nwMbQGj/captura.png)
 
 
 ---
