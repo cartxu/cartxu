@@ -46,8 +46,9 @@ I am 33 years old and I have been working in hospitality until 2020, when I had 
 #### :pill: Practice pills   - Just for fun:
 
   * [Simon Dice Play](https://cartxu.github.io/simon-dice/)
-  *  [Tic Tac Toe Game](https://cartxu.github.io/react-practice/tictactoe)
+  * [Tic Tac Toe Game](https://cartxu.github.io/react-practice/tictactoe)
   * [Netflix counter](https://cartxu.github.io/javascript-random/async/netflix.html)
+  * [Calculadora Molona](https://cartxu.github.io/js_asincrono/calculadora/index.html)
   * [Traductor 'mimimi'](https://cartxu.github.io/javascript-random/mimimi.html)
   * [Oráculo de perretes](https://cartxu.github.io/javascript-random/queperro.html)
   * [Tasks list](https://cartxu.github.io/javascript-random/tasks.html)
