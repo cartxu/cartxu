@@ -24,7 +24,7 @@ I am 33 years old and I have been working in hospitality until 2020, when I had 
 
 #### :floppy_disk: Some of my projects:
 
-* **MoviesLand**: *web app that brings movie data from moviedb.org and allow users to rate movies, create lists, post reviews, etc. Made with Python3, Django, SQLite, Javascript, HTML and CSS (responsive web design)* - [Video](https://www.youtube.com/watch?v=Cq3plmYexgM) | [Code](https://github.com/cartxu/moviesland) | [LIVE](https://movies-app-land.herokuapp.com/)
+* **MoviesLand**: *web app that brings movie data from moviedb.org and allow users to rate movies, create lists, post reviews, etc. Made with Python3, Django, SQLite, Javascript, HTML and CSS (responsive web design)* - [Video](https://www.youtube.com/watch?v=Cq3plmYexgM) | [Code](https://github.com/cartxu/moviesland) | [LIVE](https://peliculistas.herokuapp.com/)
 * **Hefemony**: *web made ad hoc for the music creator Hefemony* - [Hefemony.net:](https://hefemony.net/) 
 * **Social Network**: *social network project where the users can write posts, edit or delete them, follow/unfollow users, like/unlike posts, etc. Is made with Python, Django, SQLite, CSS, Bootstrap, HTML and Javascript* - [Video](https://www.youtube.com/watch?v=lz37axUCAaU) | [Code](https://github.com/cartxu/network)
 * **E-Buyrton**: *e-commerce app made with Python, Django, SQLite, HTML, CSS and Bootstrap for CS50's Harvard Course* - [Video](https://www.youtube.com/watch?v=4Z6MMewrcQE&t=111s) | [Code](https://github.com/cartxu/e-buyrton)
