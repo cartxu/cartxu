@@ -2,7 +2,7 @@
 
 <img width="auto" src="https://github.com/cartxu/cartxu/raw/main/carmennavarro.jpg">
 
-/* Hello world! **Carmen** here 🤗 
+/* Hello world! **Carmen** here 🤗  
 I am from Alicante, Spain, but I have been living in Madrid since 2013 and working in hospitality since then. That's until 2020, when I had the opportunity to start training myself as a **web developer**, something I have always wanted to do. Since then I have been taking several courses to learn and master some of the most used and demanded web technologies, as HTML, CSS, Javascript or Python. Currently, I am working for a startup creating web apps with Python and Django, Javascript and Node.js and creating designs with HTML, CSS and sometimes Divi or Elementor in Wordpress too. */
 
 
