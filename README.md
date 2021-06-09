@@ -42,7 +42,8 @@
 ---
 
 #### :pill: Practice pills   - Just for fun:
-
+ 
+  * [Piano-Pride](https://60c06f142703789167d1a2f3--xenodochial-haibt-e9a918.netlify.app/)
   * [Simon Dice Play](https://cartxu.github.io/simon-dice/)
   * [Tic Tac Toe Game](https://cartxu.github.io/react-practice/tictactoe)
   * [Netflix counter](https://cartxu.github.io/javascript-random/async/netflix.html)
