@@ -43,6 +43,7 @@
 
 #### :pill: Practice pills   - Just for fun:
 
+  * [ToDo List](https://zealous-yalow-83969f.netlify.app/)
   * [Dice Play](https://modest-wozniak-d31af3.netlify.app/)
   * [Piano-Pride](https://60c06f142703789167d1a2f3--xenodochial-haibt-e9a918.netlify.app/)
   * [Simon Dice Play](https://cartxu.github.io/simon-dice/)
