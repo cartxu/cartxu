@@ -23,12 +23,10 @@
 #### :floppy_disk: Some of my projects:
 
 * **MoviesLand**: *web app that brings movie data from moviedb.org and allow users to rate movies, create lists, post reviews, etc. Made with Python3, Django, SQLite, Javascript, HTML and CSS (responsive web design)* - [Video](https://www.youtube.com/watch?v=Cq3plmYexgM) | [Code](https://github.com/cartxu/moviesland) | [LIVE](https://peliculistas.herokuapp.com/)
-* **Hefemony**: *web made ad hoc for the music creator Hefemony* - [Hefemony.net:](https://hefemony.net/) 
 * **Social Network**: *social network project where the users can write posts, edit or delete them, follow/unfollow users, like/unlike posts, etc. Is made with Python, Django, SQLite, CSS, Bootstrap, HTML and Javascript* - [Video](https://www.youtube.com/watch?v=lz37axUCAaU) | [Code](https://github.com/cartxu/network)
 * **E-Buyrton**: *e-commerce app made with Python, Django, SQLite, HTML, CSS and Bootstrap for CS50's Harvard Course* - [Video](https://www.youtube.com/watch?v=4Z6MMewrcQE&t=111s) | [Code](https://github.com/cartxu/e-buyrton)
 * **Wiki**: *wikipedia like web site, made with Python, Django, HTML and CSS* - [Video](https://www.youtube.com/watch?v=L8a4by6LURU) | [Code](https://github.com/cartxu/wikipage) 
 * **E-mail**: *email project for CS50's, made with Python and Javascript using fetch and APIs* - [Video](https://www.youtube.com/watch?v=1ZvmbUTGFBo&t) | [Code](https://github.com/cartxu/mail)
-* **Yoga Studio Web Design** *Design created with Wordpress and Divi for a yoga studio* - [Capture](https://i.ibb.co/nwMbQGj/captura.png)
 
 
 ---
@@ -43,19 +41,18 @@
 
 #### :pill: Practice pills   - Just for fun:
 
-  * [ToDo List](https://zealous-yalow-83969f.netlify.app/)
-  * [Dice Play](https://modest-wozniak-d31af3.netlify.app/)
-  * [Piano-Pride](https://60c06f142703789167d1a2f3--xenodochial-haibt-e9a918.netlify.app/)
-  * [Simon Dice Play](https://cartxu.github.io/simon-dice/)
-  * [Tic Tac Toe Game](https://cartxu.github.io/react-practice/tictactoe)
-  * [Netflix counter](https://cartxu.github.io/javascript-random/async/netflix.html)
-  * [Calculadora Molona](https://cartxu.github.io/js_asincrono/calculadora/index.html)
-  * [Traductor 'mimimi'](https://cartxu.github.io/javascript-random/mimimi.html)
-  * [Oráculo de perretes](https://cartxu.github.io/javascript-random/queperro.html)
-  * [Tasks list](https://cartxu.github.io/javascript-random/tasks.html)
-  * [Calculadora edad perro-humano](https://cartxu.github.io/javascript-random/edadperro.html)
-  * [Próximo año bisiesto](https://cartxu.github.io/javascript-random/bisiesto.html)
-  * [Piedra, papel, tijera](https://cartxu.github.io/javascript-random/papelpiedratijeras.html)
-  * [Math game](https://cartxu.github.io/react-practice/game)
+  * [ToDo List (Angular)](https://zealous-yalow-83969f.netlify.app/)
+  * [Dice Play (Angular)](https://modest-wozniak-d31af3.netlify.app/)
+  * [Piano-Pride (Angular)](https://60c06f142703789167d1a2f3--xenodochial-haibt-e9a918.netlify.app/)
+  * [Simon Dice Play (VanillaJS)](https://cartxu.github.io/simon-dice/)
+  * [Tic Tac Toe Game (VanillaJS)](https://cartxu.github.io/react-practice/tictactoe)
+  * [Netflix counter (VanillaJS)](https://cartxu.github.io/javascript-random/async/netflix.html)
+  * [Calculadora Molona (VanillaJS)](https://cartxu.github.io/js_asincrono/calculadora/index.html)
+  * [Traductor 'mimimi' (VanillaJS)](https://cartxu.github.io/javascript-random/mimimi.html)
+  * [Oráculo de perretes (VanillaJS)](https://cartxu.github.io/javascript-random/queperro.html)
+  * [Calculadora edad perro-humano (VanillaJS)](https://cartxu.github.io/javascript-random/edadperro.html)
+  * [Próximo año bisiesto (VanillaJS)](https://cartxu.github.io/javascript-random/bisiesto.html)
+  * [Piedra, papel, tijera (VanillaJS)](https://cartxu.github.io/javascript-random/papelpiedratijeras.html)
+  * [Math game (VanillaJS)](https://cartxu.github.io/react-practice/game)
   
   
