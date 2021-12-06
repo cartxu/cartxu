@@ -28,7 +28,7 @@
 * **Wiki**: *wikipedia like web site, made with Python, Django, HTML and CSS* - [Video](https://www.youtube.com/watch?v=L8a4by6LURU) | [Code](https://github.com/cartxu/wikipage) 
 * **E-mail**: *email project for CS50's, made with Python and Javascript using fetch and APIs* - [Video](https://www.youtube.com/watch?v=1ZvmbUTGFBo&t) | [Code](https://github.com/cartxu/mail)
 * **La Tienda Media**: *e-commerce project, API REST, made with Nodejs, Expressjs, Mongodb, Handlebars and Bootstrap for the Bootcamp "Backend Express" from GeeksHubs Academy* - [Code](https://github.com/cartxu/tienda-media)
-
+* **Hefemony.net**: web portfolio made for the music artist Hefemony - [Web](https://hefemony-net.vercel.app/music.html)
 
 ---
 
@@ -42,6 +42,7 @@
 
 #### :pill: Practice pills   - Just for fun:
 
+  * [Names CRUD (Reactjs)](https://react-names-crud.vercel.app/)
   * [ToDo List (Angular)](https://zealous-yalow-83969f.netlify.app/)
   * [Dice Play (Angular)](https://modest-wozniak-d31af3.netlify.app/)
   * [Piano-Pride (Angular)](https://60c06f142703789167d1a2f3--xenodochial-haibt-e9a918.netlify.app/)
