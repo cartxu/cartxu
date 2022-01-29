@@ -40,8 +40,9 @@
 
 ---
 
-#### :pill: Practice pills   - Just for fun:
-
+#### :pill: Practice pills:
+ 
+  * [Tasks App (React + Typescript](https://react-ts-tasks.vercel.app/)
   * [Names CRUD (Reactjs)](https://react-names-crud.vercel.app/)
   * [ToDo List (Angular)](https://zealous-yalow-83969f.netlify.app/)
   * [Dice Play (Angular)](https://modest-wozniak-d31af3.netlify.app/)
