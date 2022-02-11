@@ -15,7 +15,7 @@
 
 ### :pencil: Curriculum Vitae
 
-* [Download CV](https://drive.google.com/file/d/1W5Ea-g5aMQsznu4egnf8eqCjBi_yq2y5/view?usp=sharing)
+* [Download CV](https://drive.google.com/file/d/1Aj1U-uZyc9h6Li78d4MWoowo74LbKeik/view?usp=sharing)
 * [Linkedin](https://www.linkedin.com/in/carmen-navarrosoria/)
 
 ---
