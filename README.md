@@ -1,9 +1,6 @@
 ## console.log("Hello, world! 👋") 
 
 
-/* Hello world! **Carmen** here 🤗  */
-
-
 ### :computer: Working with:
 
 
