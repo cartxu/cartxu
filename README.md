@@ -1,6 +1,5 @@
 ## console.log("Hello, world! 👋") 
 
-<img width="auto" src="https://github.com/cartxu/cartxu/raw/main/carmennavarro.jpg">
 
 /* Hello world! **Carmen** here 🤗  */
 
